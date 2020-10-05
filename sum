@@ -11,3 +11,4 @@ print("")
 print("The sum is: ")
 print(add(x,y))
 
+%run -i 'sum.py'
