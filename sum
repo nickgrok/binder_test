@@ -1,0 +1,13 @@
+
+def add(x, y):
+    return(x + y)
+
+
+print("Time to add two numbers...")
+x = input("What is the x value?")
+print("")
+y = input("What is the y value?")
+print("")
+print("The sum is: ")
+print(add(x,y))
+
